@@ -4,7 +4,7 @@
 ### through- Pandas
 ## >>Visualization of dataset by graphs
 ### through- matplotlib
-## Performing Dimensionality Reduction to reduce feature
+## Performing Dimensionality Reduction to reduce features
 ### through- Principal Component Analysis (PCA)
 ## THEN FURTHER,
 ## >>Calculating and Comparing Prediction Scores in Machine Learning 
